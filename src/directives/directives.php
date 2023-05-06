@@ -1,8 +1,8 @@
 <?php
 
-use Laraindo\RupiahFormat;
-use Laraindo\directives\Parser;
-use Laraindo\TanggalFormat;
+use Colabs\RupiahFormat;
+use Colabs\directives\Parser;
+use Colabs\TanggalFormat;
 
 return [
     'RupiahFormat' => function ($expression) {

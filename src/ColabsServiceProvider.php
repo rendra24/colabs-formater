@@ -20,7 +20,7 @@ class ColabsServiceProvider extends ServiceProvider
     public function register()
     {
         $this->mergeConfigFrom(
-            __DIR__.'/config/laraindo.php', 'laraindo'
+            __DIR__.'/config/colabs.php', 'colabs'
         );
     }
 
@@ -33,7 +33,7 @@ class ColabsServiceProvider extends ServiceProvider
     {
         $this->registerDirectives();
         $this->publishes([
-            __DIR__ . '/config/laraindo.php' => config_path('laraindo.php'),
+            __DIR__ . '/config/colabs.php' => config_path('colabs.php'),
             __DIR__ . '/Localization/lang/id' => lang_path('id'),
         ]);
     }
