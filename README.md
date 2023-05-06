@@ -17,7 +17,7 @@ Yang dibutuhkan dalam menjalankan package ini:
 
 Jalankan perintah dibawah untuk memasang pada projek kamu.
 ```bash
-composer require afrizalmy/laraindo
+composer require colabs/formater
 ```
 _*pastikan sudah menginstall composer di device kalian._
 

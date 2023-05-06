@@ -1,5 +1,5 @@
 {
-    "name": "afrizalmy/laraindo",
+    "name": "colabs/formater",
     "description": "Package Laravel 9 sederhana untuk format indonesia terdiri dari Localization, Rupiah format, Date format",
     "type": "library",
     "keywords": [
