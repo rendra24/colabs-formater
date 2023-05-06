@@ -1,16 +1,16 @@
 <?php
 
 /**
- * @author AfrizalMY <saweria.co/afrizalmy>
+ * @author Rendra 
  * @license MIT
  */
 
-namespace Laraindo;
+namespace Colabs;
 
 use Illuminate\Support\Facades\Blade;
 use Illuminate\Support\ServiceProvider;
 
-class LaraindoServiceProvider extends ServiceProvider
+class ColabsServiceProvider extends ServiceProvider
 {
     /**
      * Register services.

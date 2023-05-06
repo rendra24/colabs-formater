@@ -1,11 +1,11 @@
 <?php
 
 /**
- * @author AfrizalMY <saweria.co/afrizalmy>
+ * @author Rendra 
  * @license MIT
  */
 
-namespace Laraindo;
+namespace Colabs;
 
 class RupiahFormat
 {

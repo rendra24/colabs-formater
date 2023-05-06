@@ -93,6 +93,6 @@ Silahkan ke halaman issue berikan untuk penjelasan lebih lanjutnya.
 Saya menerima dengan baik kontribusi kamu untuk package ini.
 
 ## Support Me
-Dukung aku [https://saweria.co/afrizalmy](https://saweria.co/afrizalmy)
+Dukung aku [https://saweria.co/Rendra](https://saweria.co/Rendra)
 
 

@@ -1,11 +1,11 @@
 <?php
 
 /**
- * @author AfrizalMY <saweria.co/afrizalmy>
+ * @author Rendra 
  * @license MIT
  */
 
-namespace Laraindo;
+namespace Colabs;
 
 use Carbon\Carbon;
 
@@ -14,7 +14,7 @@ class TanggalFormat
 {
     public static function DateIndo(string $date, string $format = null)
     {
-        $locale = config('laraindo', true);
+        $locale = config('colabs', true);
         $date = Carbon::parse($date)->locale($locale['TanggalFormat']['locale']);
 
         $date->settings(['formatFunction' => 'translatedFormat']);

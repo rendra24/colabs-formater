@@ -1,6 +1,6 @@
 <?php
 
-namespace Laraindo\directives;
+namespace Colabs\directives;
 
 class Parser
 {

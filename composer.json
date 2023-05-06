@@ -7,45 +7,44 @@
         "Rupiah",
         "Tanggal",
         "laravel",
-        "laravel 9",
-        "indo",
-        "indonesia"
+        "laravel 9"
     ],
     "require": {
         "php": ">=8.0.2",
         "laravel/framework": "^9.0|^10.0"
     },
+    "platform":{"php":"8.2"},
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Laraindo\\": "src/"
+            "Colabs\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Laraindo\\LaraindoServiceProvider"
+                "Colabs\\ColabsServiceProvider"
             ]
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Laraindo\\Test\\": "tests"
+            "Colabs\\Test\\": "tests"
         }
     },
     "authors": [
         {
-            "name": "Afrizal",
-            "email": "afrizalyasin423@gmail.com",
-            "homepage": "https://github.com/afrizal423",
+            "name": "Rendra",
+            "email": "rendraseptian24@gmail.com",
+            "homepage": "https://github.com/rendra24",
             "role": "Developer"
         }
     ],
     "support": {
-        "email": "afrizalyasin423@gmail.com",
-        "issues": "https://github.com/afrizal423/laraindo/issues",
-        "source": "https://github.com/afrizal423/laraindo",
-        "docs": "https://github.com/afrizal423/laraindo/README.md"
+        "email": "rendraseptian24@gmail.com",
+        "issues": "https://github.com/rendra24/colabs-formater/issues",
+        "source": "https://github.com/rendra24/colabs-formater",
+        "docs": "https://github.com/rendra24/colabs-formater/README.md"
     },
     "minimum-stability": "dev",
     "scripts": {
